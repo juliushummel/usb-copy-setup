@@ -1,0 +1,2 @@
+# usb-copy-setup
+yes
